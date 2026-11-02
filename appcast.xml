@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Remote</title>
+    <item>
+      <title>Remote 0.3.0</title>
+      <sparkle:version>300</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/v0.3.0/Remote.dmg" sparkle:edSignature="7d1j2JjxFUWI8QB5rqBt/fCb2X5tFD7ZJsKgFRtpXqOGFLTcPfNi1UJ7HrrO/lytHGjra/4hZPdKYJbwce42Cg==" length="2073240" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
