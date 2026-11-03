@@ -3,11 +3,11 @@
   <channel>
     <title>Remote</title>
     <item>
-      <title>Remote 0.10.0</title>
-      <sparkle:version>1000</sparkle:version>
-      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <title>Remote 0.11.0</title>
+      <sparkle:version>1100</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/v0.10.0/Remote.dmg" sparkle:edSignature="FAHd2eefCPFEe5Tnjo4f0A8SL0DcMLkJWHtl1pWzXfkX+e135SWZIeLWeaqpxLV4ur4hC6MPPshhWw9gZh0eBQ==" length="3368332" type="application/octet-stream"/>
+      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/v0.11.0/Remote.dmg" sparkle:edSignature="/R1ZxAQr0jZSTjOcMMftqSw8kZQr3SHDvUSuVSW5COSOGWYiRnIxeAdCM+DajjTGVQ5/RKLjuAkKyqdpJS5TBQ==" length="3484696" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
