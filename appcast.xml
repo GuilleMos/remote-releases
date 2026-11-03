@@ -3,11 +3,11 @@
   <channel>
     <title>Remotio</title>
     <item>
-      <title>Remotio 0.16.0</title>
-      <sparkle:version>1600</sparkle:version>
-      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+      <title>Remotio 0.17.0</title>
+      <sparkle:version>1700</sparkle:version>
+      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/v0.16.0/Remotio.dmg" sparkle:edSignature="0uFr4s20M5qnHr1yOzf47mLP8s/d+hbQ3MRHd4EkupMd+xL8vgBZWzMTHoeNR3nl2D+IklqkQgtusQkCoyW6Cg==" length="3589081" type="application/octet-stream"/>
+      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/v0.17.0/Remotio.dmg" sparkle:edSignature="5CiKn35sJaptTAsFhdBk3zx0+1jW+EwNVyaZRe9z/bfBPcwSASjdcmv6G9S6wtz/t/21KWNb7NIznTr0q0ZbCQ==" length="3596724" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
