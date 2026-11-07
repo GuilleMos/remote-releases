@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Remotio para Windows</title>
+    <item>
+      <title>Remotio 0.32.0</title>
+      <sparkle:version>0.32.0</sparkle:version>
+      <sparkle:shortVersionString>0.32.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/windows-v0.32.0/Remotio-0.32.0-windows-x64.zip" sparkle:edSignature="ZZv4LoKLBChA43AvZZoTgM8ugDVpXhWWgypWkpncVwB5C5lD99+k5dpHHBpgeZWy/4U7J/NkuFlgR9x+4PzDAw==" length="8408103" type="application/zip"/>
+    </item>
+  </channel>
+</rss>
