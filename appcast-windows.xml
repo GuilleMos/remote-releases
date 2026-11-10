@@ -3,10 +3,10 @@
   <channel>
     <title>Remotio para Windows</title>
     <item>
-      <title>Remotio 0.32.0</title>
-      <sparkle:version>0.32.0</sparkle:version>
-      <sparkle:shortVersionString>0.32.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/windows-v0.32.0/Remotio-0.32.0-windows-x64.zip" sparkle:edSignature="ZZv4LoKLBChA43AvZZoTgM8ugDVpXhWWgypWkpncVwB5C5lD99+k5dpHHBpgeZWy/4U7J/NkuFlgR9x+4PzDAw==" length="8408103" type="application/zip"/>
+      <title>Remotio 0.32.3</title>
+      <sparkle:version>0.32.3</sparkle:version>
+      <sparkle:shortVersionString>0.32.3</sparkle:shortVersionString>
+      <enclosure url="https://github.com/GuilleMos/remote-releases/releases/download/windows-v0.32.3/Remotio-0.32.3-windows-x64.zip" sparkle:edSignature="BnMGH+1DXMpYPIiFoiVpjIDKdJgsDt9Mxe8MK7IG8+m+X8G9tii+7Qbusayn2zdtsgBPy4vPEeK8CwefDtEyCw==" length="8411819" type="application/zip"/>
     </item>
   </channel>
 </rss>
